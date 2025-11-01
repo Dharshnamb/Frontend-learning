@@ -1,0 +1,13 @@
+.one{
+    color: red;
+    background-color: black;
+}
+#two{
+    color: chartreuse;
+} 
+.two{
+    color: blue;
+}
+*{
+   color: darkmagenta; 
+}
